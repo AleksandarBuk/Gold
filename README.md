@@ -1,2 +1,2 @@
 # Gold
-Trend, Volatility and Returns analysis on gold prices.
+Trend, Volatility and Returns analysis on Gold_Monlthly dataset.
